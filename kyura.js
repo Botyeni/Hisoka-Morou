@@ -2814,13 +2814,17 @@ User Raiden Bot
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Mabar Genshin',
+                                    displayText: 'Co-Op Genshin Kuy',
                                     id: 'mabargenshin'
                                 }
                             }]
                         kyura.send5ButImg(m.chat, anu, kyura.user.name, global.thumb, btn)
                      }
             break
+            case 'mabargenshin': {
+                kyura.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/a2e7941e497029b45de8e.jpg' }, caption: `Co-op sekuy bang XD\nServer : Asia\nUID : 854651082\nNickname : Kyura\nAR : 42` }, { quoted: m })
+            }
+                break
             default:
                 if (budy.startsWith('=>')) {
                     if (!isCreator) return m.reply(mess.owner)
