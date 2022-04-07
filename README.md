@@ -5,10 +5,11 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://cms.dailysocial.id/wp-content/uploads/2021/08/1a9ca195f86a8ac79732b9d7d296c42f_Genshin-Impact-2.1-update-with-Raiden-Shogun-and-Kokomi.jpg" width="55%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://cms.dailysocial.id/wp-content/uploads/2021/08/1a9ca195f86a8ac79732b9d7d296c42f_Genshin-Impact-2.1-update-with-Raiden-Shogun-and-Kokomi.jpg" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Raiden Shogun</h1>
+<h1 align="center">-- Raiden Shogun --</h1>
 
+Penguasa Inazuma awokawoakok
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## UNTUK PENGGUNA WINDOWS/RDP
