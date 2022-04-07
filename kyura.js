@@ -537,7 +537,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/kyura-Morou\nhttps://github.com/KyuraSaja\n\n Dont Forget Give Star.')
+                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\nhttps://github.com/KyuraSaja\n\n Dont Forget Give Star.')
             }
             break
             case 'chat': {
