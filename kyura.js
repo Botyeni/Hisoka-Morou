@@ -1133,7 +1133,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/kyura-Morou'
+                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
                                 }
                             }, {
                                 callButton: {
@@ -1172,7 +1172,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/kyura-Morou'
+                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
                                 }
                             }, {
                                 callButton: {
@@ -2797,7 +2797,7 @@ User Raiden Bot
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/kyura-Morou'
+                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
                                 }
                             }, {
                                 callButton: {
