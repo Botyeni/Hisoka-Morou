@@ -1,7 +1,7 @@
 {
-  "name": "hisoka-morou",
+  "name": "Raiden Bot",
   "version": "1.2.3",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
