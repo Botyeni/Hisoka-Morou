@@ -40,7 +40,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/thumbraiden.jpg')
+global.thumb = fs.readFileSync('./thumb/baalpunyakyurahehe.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
