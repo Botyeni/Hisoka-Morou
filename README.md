@@ -54,7 +54,7 @@ Get Apikey zenz hanya daftar di [`zenz`](https://zenzapi.xyz)
 ## Contact Kyura
 <p align="center">
 <a href="https://wa.me/6281998903280"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/c/KYURA"><img src="https://img.shields.io/badge/YouTube Kyuraff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/KYURA" /><br>
+<a href="https://youtube.com/c/KYURA"><img src="https://img.shields.io/badge/YouTube Kyura ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/KYURA" /><br>
   
 ## Makasih kepada
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
