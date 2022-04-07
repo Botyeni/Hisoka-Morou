@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://images2.alphacoders.com/115/thumbbig-1154148.webp" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://images5.alphacoders.com/117/thumb-1920-1170176.jpg" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">-- Raiden Shogun --</h1>
 Penguasa Inazuma awokawoakok
