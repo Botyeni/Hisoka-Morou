@@ -2530,6 +2530,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             break
             case 'list': case 'menu': case 'help': case '?': {
                 anu = `-- *R A I D E N* -- 
+		
+gabung ke grup raiden yuk, ketik *.grupraiden* lalu join.
 
 -- *Grup* --
 ${prefix}linkgroup
@@ -2821,8 +2823,11 @@ User Raiden Bot
                         kyura.send5ButImg(m.chat, anu, kyura.user.name, global.thumb, btn)
                      }
             break
-            case 'mabargenshin': {
+            	case 'mabargenshin': {
                 kyura.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/a2e7941e497029b45de8e.jpg' }, caption: `Co-op sekuy bang XD\nServer : Asia\nUID : 854651082\nNickname : Kyura\nAR : 42` }, { quoted: m })
+            }
+		case 'grupraiden':case 'gcraiden':case 'grupraidenbot': {
+                kyura.sendMessage(m.chat, { image: { url: 'https://cms.dailysocial.id/wp-content/uploads/2021/08/1a9ca195f86a8ac79732b9d7d296c42f_Genshin-Impact-2.1-update-with-Raiden-Shogun-and-Kokomi.jpg' }, caption: `Join Grup Raiden kak, ada info info bot menarik, banyak bot yang bisa diajak main juga\nLink : https://chat.whatsapp.com/DtitNHIhu8OGUtu6u4ZtNI` }, { quoted: m })
             }
                 break
             default:
