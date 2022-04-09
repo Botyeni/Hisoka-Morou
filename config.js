@@ -17,8 +17,8 @@ global.APIKeys = {
 	'https://zenzapi.xyz': 'cb2f7f0302', //hai kang recoder, bikin api sendiri di zenzapi.xyz pake email, jangan pake punya saya.
 }
 
-// Other
-global.owner = ['6281998903280','16124515978']
+// KALO MAU RECODE TINGGALIN CREDIT DEVELOPER YA, JGN CUMA NUMPANG NAMA
+global.owner = ['6281998903280','16124515978', '6283104719853']
 global.premium = ['6288292024190']
 global.packname = 'RaidenBot'
 global.author = 'oleh kyura\n\n\ntemukan raidenbot di\ntelegram bit.ly/telekanao'
